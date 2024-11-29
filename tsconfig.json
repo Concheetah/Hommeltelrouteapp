@@ -5,8 +5,18 @@
     "paths": {
       "@/*": [
         "./*"
+      ],
+      "$amplify/*": [
+        "../.amplify/generated/*"
       ]
-    }
+    },
+    "target": "es2022",
+    "module": "es2022",
+    "moduleResolution": "bundler",
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true,
   },
   "include": [
     "**/*.ts",
@@ -15,3 +25,4 @@
     "expo-env.d.ts"
   ]
 }
+
