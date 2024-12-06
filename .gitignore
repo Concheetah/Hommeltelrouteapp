@@ -35,8 +35,6 @@ yarn-error.*
 # typescript
 *.tsbuildinfo
 
-app-example
-
 README.md
 package-lock.json
 package.json
