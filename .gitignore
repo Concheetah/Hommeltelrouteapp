@@ -38,8 +38,8 @@ yarn-error.*
 app-example
 
 README.md
-
-
+package-lock.json
+package.json
 
 # amplify
 node_modules
