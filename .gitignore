@@ -40,7 +40,7 @@ app-example
 README.md
 
 package.json
-package-lock.json
+
 
 # amplify
 node_modules
